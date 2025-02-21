@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efdd8b008ab9fec4f989d3902e00bbb6, type: 3}
+  m_Name: EdibleLootTable
+  m_EditorClassIdentifier: 
+  lootList:
+  - {fileID: 11400000, guid: 2f78c68d281105540b56603c03b0dba9, type: 2}
+  - {fileID: 11400000, guid: 45833652330043c4d9809db1633c1f31, type: 2}
+  - {fileID: 11400000, guid: d4f217db008c14d4296b722238f4273f, type: 2}
+  - {fileID: 11400000, guid: 36472cf42a21d41418648e21df59bf97, type: 2}
+  - {fileID: 11400000, guid: 6ff0ba4da82e57e478103b66f83daae6, type: 2}
+  - {fileID: 11400000, guid: 8aee9c9a6b63b3847a3cd2d1d51edc6c, type: 2}

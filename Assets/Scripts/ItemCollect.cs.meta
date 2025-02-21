@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c43ed774796364dd1aa7565969865de9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slotImg: {instanceID: 0}
+  - slotItem: {instanceID: 0}
+  - initialShader: {fileID: 4800000, guid: aae58c6c26e27784db6b5a27e69e227b, type: 3}
+  - newShader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  - weaponMat: {fileID: 2100000, guid: 6381a2822798cc041b99cf46b7a1eebc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
