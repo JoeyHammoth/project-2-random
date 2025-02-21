@@ -156,10 +156,10 @@ The game features a particle system that simulates the billowing smoke and resid
 
 
 ## Summary of Contributions
-Lucas Chan - Mainly worked on the codebase of the game, such as maintaining the codes, and fixing bugs, worked on logics on zombie spawning, worked on the game map, implemented sound fx into the game and also game music, continuously refining and polishing the game.
+[Lucas Chan](https://github.com/lucaschanzx) - Mainly worked on the codebase of the game, such as maintaining the codes, and fixing bugs, worked on logics on zombie spawning, worked on the game map, implemented sound fx into the game and also game music, continuously refining and polishing the game.
 
-James Nikolas Putradi - Object spawning system, stamina system, shaders, lighting, UI, polishing, GDD, shader report, enemy spawning, bug-fixing, inventory, QOL improvements.
+[James Nikolas Putradi](https://github.com/JoeyHammoth) - Object spawning system, stamina system, shaders, lighting, UI, polishing, GDD, shader report, enemy spawning, bug-fixing, inventory, QOL improvements.
 
-William Zhang - Worked on the Drop loot system, edibles, Some Player, Zombie and U.I implementations, bug fixes as well as Evaluation plan and report.
+[William Zhang](https://github.com/x4z3y) - Worked on the Drop loot system, edibles, Some Player, Zombie and U.I implementations, bug fixes as well as Evaluation plan and report.
 
-Sooyoung Jung - Primarily focused on Map Implementation and the codebase of the game; handling of game phase, zombie spawning, various guns and hand grenade, game UI, and scene transitions
+[Sooyoung Jung](https://github.com/syj7421) - Primarily focused on Map Implementation and the codebase of the game; handling of game phase, zombie spawning, various guns and hand grenade, game UI, and scene transitions
